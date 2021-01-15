@@ -1,0 +1,438 @@
+2021.01.03 22:09:56 INFO  Started: Metals version 0.9.8 in workspace '/home/takakki19/sbtSample' for client vscode.
+2021.01.03 22:09:58 INFO  time: initialize in 1.65s
+2021.01.03 22:09:59 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher2221209684930372732/bsp.socket'...
+Waiting for the bsp connection to come up...
+2021.01.03 22:09:59 WARN  no build target for: /home/takakki19/sbtSample/Main.scala
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+2021.01.03 22:10:05 INFO  no build target: using presentation compiler with only scala-library
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.6-15-209c2a5c...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher2221209684930372732/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher2221209684930372732/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.03 22:10:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/takakki19/.cache/metals/bsp.trace.json
+2021.01.03 22:10:30 INFO  time: connected to build server in 32s
+2021.01.03 22:10:30 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.03 22:10:31 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.03 22:10:31 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.03 22:10:31 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.03 22:10:32 WARN  Could not find java sources in None. Java symbols will not be available.
+2021.01.03 22:10:32 INFO  time: indexed workspace in 1.33s
+2021.01.03 22:10:32 WARN  no build target for: /home/takakki19/sbtSample/Main.scala
+1月 03, 2021 10:15:06 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTraceNotification
+1月 03, 2021 10:17:09 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 11
+1月 03, 2021 10:17:13 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 18
+2021.01.03 22:17:16 WARN  no build target for: /home/takakki19/sbtSample/Main.scala
+2021.01.03 22:17:16 INFO  skipping build import with status 'Requested'
+1月 03, 2021 10:17:17 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 30
+2021.01.03 22:17:18 WARN  no build target for: /home/takakki19/sbtSample/Main.scala
+2021.01.03 22:17:18 INFO  skipping build import with status 'Requested'
+1月 03, 2021 10:17:26 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 58
+2021.01.03 22:17:28 WARN  no build target for: /home/takakki19/sbtSample/Main.scala
+2021.01.03 22:17:28 INFO  skipping build import with status 'Requested'
+2021.01.03 22:22:09 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+1月 03, 2021 10:22:55 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 77
+1月 03, 2021 10:22:55 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 76
+1月 03, 2021 10:22:57 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 87
+2021.01.03 22:22:57 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:22:57 INFO  skipping build import with status 'Requested'
+2021.01.03 22:22:59 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:22:59 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:00 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:00 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:03 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:03 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:06 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:06 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:09 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:09 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:10 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:10 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:12 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:12 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:14 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:14 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:17 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:17 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:19 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:19 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:21 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:21 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:24 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:24 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:27 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:27 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:28 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:28 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:30 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:30 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:32 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:32 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:34 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:34 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:35 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:35 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:38 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:38 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:41 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:41 INFO  skipping build import with status 'Requested'
+1月 03, 2021 10:23:43 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 297
+1月 03, 2021 10:23:43 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 299
+2021.01.03 22:23:44 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:44 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:49 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:49 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:53 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:53 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:54 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:54 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:55 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:55 INFO  skipping build import with status 'Requested'
+2021.01.03 22:23:59 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:23:59 INFO  skipping build import with status 'Requested'
+2021.01.03 22:24:00 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:24:00 INFO  skipping build import with status 'Requested'
+2021.01.03 22:24:09 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:24:09 INFO  skipping build import with status 'Requested'
+2021.01.03 22:24:13 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:24:13 INFO  skipping build import with status 'Requested'
+2021.01.03 22:24:14 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:24:14 INFO  skipping build import with status 'Requested'
+1月 03, 2021 10:24:15 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 415
+2021.01.03 22:24:17 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:24:17 INFO  skipping build import with status 'Requested'
+2021.01.03 22:24:19 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:24:19 INFO  skipping build import with status 'Requested'
+2021.01.03 22:24:24 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:24:24 INFO  skipping build import with status 'Requested'
+1月 03, 2021 10:24:25 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 444
+2021.01.03 22:24:27 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:24:27 INFO  skipping build import with status 'Requested'
+2021.01.03 22:24:29 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:24:29 INFO  skipping build import with status 'Requested'
+2021.01.03 22:24:33 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:24:33 INFO  skipping build import with status 'Requested'
+2021.01.03 22:24:37 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:24:37 INFO  skipping build import with status 'Requested'
+1月 03, 2021 10:24:39 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 518
+2021.01.03 22:24:41 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:24:41 INFO  skipping build import with status 'Requested'
+2021.01.03 22:24:43 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:24:43 INFO  skipping build import with status 'Requested'
+2021.01.03 22:24:44 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:24:44 INFO  skipping build import with status 'Requested'
+2021.01.03 22:24:46 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:24:46 INFO  skipping build import with status 'Requested'
+2021.01.03 22:24:49 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:24:49 INFO  skipping build import with status 'Requested'
+2021.01.03 22:24:53 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:24:53 INFO  skipping build import with status 'Requested'
+1月 03, 2021 10:24:57 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 578
+2021.01.03 22:24:58 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:24:58 INFO  skipping build import with status 'Requested'
+2021.01.03 22:25:11 WARN  code navigation does not work for the file '/home/takakki19/sbtSample/Distance.scala' because it doesn't belong to a build target.
+2021.01.03 22:25:12 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:25:12 INFO  skipping build import with status 'Requested'
+2021.01.03 22:30:41 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:30:41 INFO  skipping build import with status 'Requested'
+2021.01.03 22:30:41 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+2021.01.03 22:30:41 INFO  skipping build import with status 'Requested'
+2021.01.03 22:41:20 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+1月 03, 2021 10:41:43 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 641
+1月 03, 2021 10:41:43 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 643
+2021.01.03 22:41:45 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:41:45 INFO  skipping build import with status 'Requested'
+2021.01.03 22:41:47 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:41:47 INFO  skipping build import with status 'Requested'
+2021.01.03 22:41:52 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:41:52 INFO  skipping build import with status 'Requested'
+1月 03, 2021 10:41:53 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 668
+1月 03, 2021 10:41:53 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 670
+2021.01.03 22:41:55 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:41:55 INFO  skipping build import with status 'Requested'
+2021.01.03 22:41:57 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:41:57 INFO  skipping build import with status 'Requested'
+2021.01.03 22:41:59 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:41:59 INFO  skipping build import with status 'Requested'
+2021.01.03 22:42:04 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:42:04 INFO  skipping build import with status 'Requested'
+2021.01.03 22:42:11 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:42:11 INFO  skipping build import with status 'Requested'
+2021.01.03 22:42:13 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:42:13 INFO  skipping build import with status 'Requested'
+2021.01.03 22:42:18 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:42:18 INFO  skipping build import with status 'Requested'
+2021.01.03 22:42:19 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:42:19 INFO  skipping build import with status 'Requested'
+2021.01.03 22:42:21 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:42:21 INFO  skipping build import with status 'Requested'
+2021.01.03 22:42:24 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:42:24 INFO  skipping build import with status 'Requested'
+2021.01.03 22:42:25 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:42:25 INFO  skipping build import with status 'Requested'
+2021.01.03 22:42:31 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:42:31 INFO  skipping build import with status 'Requested'
+2021.01.03 22:42:33 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:42:33 INFO  skipping build import with status 'Requested'
+2021.01.03 22:42:36 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:42:36 INFO  skipping build import with status 'Requested'
+2021.01.03 22:42:39 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:42:39 INFO  skipping build import with status 'Requested'
+2021.01.03 22:42:41 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:42:41 INFO  skipping build import with status 'Requested'
+2021.01.03 22:42:43 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:42:43 INFO  skipping build import with status 'Requested'
+2021.01.03 22:42:47 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:42:47 INFO  skipping build import with status 'Requested'
+2021.01.03 22:42:49 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:42:49 INFO  skipping build import with status 'Requested'
+1月 03, 2021 10:42:51 午後 scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+情報: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+1月 03, 2021 10:42:52 午後 scala.meta.internal.pc.CompilerAccess handleError
+重大: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.HoverProvider.typedHoverTreeAt(HoverProvider.scala:239)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:26)
+
+1月 03, 2021 10:42:52 午後 scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+情報: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+1月 03, 2021 10:42:52 午後 scala.meta.internal.pc.CompilerAccess handleError
+重大: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:138)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:156)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.HoverProvider.typedHoverTreeAt(HoverProvider.scala:239)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:26)
+
+2021.01.03 22:42:55 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:42:55 INFO  skipping build import with status 'Requested'
+2021.01.03 22:42:59 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:42:59 INFO  skipping build import with status 'Requested'
+2021.01.03 22:43:02 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:02 INFO  skipping build import with status 'Requested'
+2021.01.03 22:43:04 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:04 INFO  skipping build import with status 'Requested'
+2021.01.03 22:43:05 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:05 INFO  skipping build import with status 'Requested'
+2021.01.03 22:43:11 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:11 INFO  skipping build import with status 'Requested'
+2021.01.03 22:43:16 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:17 INFO  skipping build import with status 'Requested'
+2021.01.03 22:43:19 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:19 INFO  skipping build import with status 'Requested'
+2021.01.03 22:43:24 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:24 INFO  skipping build import with status 'Requested'
+2021.01.03 22:43:27 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:27 INFO  skipping build import with status 'Requested'
+2021.01.03 22:43:30 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:30 INFO  skipping build import with status 'Requested'
+2021.01.03 22:43:34 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:34 INFO  skipping build import with status 'Requested'
+1月 03, 2021 10:43:35 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1013
+2021.01.03 22:43:37 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:37 INFO  skipping build import with status 'Requested'
+2021.01.03 22:43:39 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:39 INFO  skipping build import with status 'Requested'
+2021.01.03 22:43:41 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:41 INFO  skipping build import with status 'Requested'
+2021.01.03 22:43:43 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:43 INFO  skipping build import with status 'Requested'
+2021.01.03 22:43:45 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:45 INFO  skipping build import with status 'Requested'
+2021.01.03 22:43:48 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:48 INFO  skipping build import with status 'Requested'
+2021.01.03 22:43:49 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:49 INFO  skipping build import with status 'Requested'
+2021.01.03 22:43:52 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:52 INFO  skipping build import with status 'Requested'
+1月 03, 2021 10:43:53 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1095
+2021.01.03 22:43:54 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:43:54 INFO  skipping build import with status 'Requested'
+2021.01.03 22:44:02 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:44:02 INFO  skipping build import with status 'Requested'
+1月 03, 2021 10:44:03 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1112
+2021.01.03 22:44:04 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:44:04 INFO  skipping build import with status 'Requested'
+2021.01.03 22:44:08 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:44:08 INFO  skipping build import with status 'Requested'
+2021.01.03 22:44:10 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:44:10 INFO  skipping build import with status 'Requested'
+2021.01.03 22:44:24 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:44:24 INFO  skipping build import with status 'Requested'
+2021.01.03 22:44:26 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:44:26 INFO  skipping build import with status 'Requested'
+2021.01.03 22:44:27 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:44:27 INFO  skipping build import with status 'Requested'
+2021.01.03 22:44:31 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:44:31 INFO  skipping build import with status 'Requested'
+1月 03, 2021 10:45:57 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1229
+2021.01.03 22:46:01 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:46:02 INFO  skipping build import with status 'Requested'
+2021.01.03 22:46:27 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:46:27 INFO  skipping build import with status 'Requested'
+2021.01.03 22:46:52 WARN  no build target for: /home/takakki19/sbtSample/Factorial.scala
+2021.01.03 22:46:52 INFO  skipping build import with status 'Requested'
+2021.01.03 23:08:53 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:01 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:01 INFO  skipping build import with status 'Requested'
+2021.01.03 23:09:02 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:02 INFO  skipping build import with status 'Requested'
+2021.01.03 23:09:05 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:05 INFO  skipping build import with status 'Requested'
+2021.01.03 23:09:08 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:08 INFO  skipping build import with status 'Requested'
+2021.01.03 23:09:10 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:10 INFO  skipping build import with status 'Requested'
+1月 03, 2021 11:09:11 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1310
+2021.01.03 23:09:12 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:12 INFO  skipping build import with status 'Requested'
+2021.01.03 23:09:15 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:15 INFO  skipping build import with status 'Requested'
+2021.01.03 23:09:17 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:17 INFO  skipping build import with status 'Requested'
+2021.01.03 23:09:20 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:20 INFO  skipping build import with status 'Requested'
+2021.01.03 23:09:21 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:21 INFO  skipping build import with status 'Requested'
+2021.01.03 23:09:24 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:24 INFO  skipping build import with status 'Requested'
+2021.01.03 23:09:26 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:26 INFO  skipping build import with status 'Requested'
+2021.01.03 23:09:32 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:32 INFO  skipping build import with status 'Requested'
+1月 03, 2021 11:09:33 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1407
+2021.01.03 23:09:34 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:34 INFO  skipping build import with status 'Requested'
+2021.01.03 23:09:36 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:36 INFO  skipping build import with status 'Requested'
+2021.01.03 23:09:38 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:38 INFO  skipping build import with status 'Requested'
+2021.01.03 23:09:40 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:40 INFO  skipping build import with status 'Requested'
+2021.01.03 23:09:49 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:09:49 INFO  skipping build import with status 'Requested'
+2021.01.03 23:13:26 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:13:26 INFO  skipping build import with status 'Requested'
+2021.01.03 23:43:02 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:43:03 INFO  skipping build import with status 'Requested'
+2021.01.03 23:43:07 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.03 23:43:07 INFO  skipping build import with status 'Requested'
+2021.01.04 07:54:43 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.04 07:54:43 INFO  skipping build import with status 'Requested'
+2021.01.04 07:54:45 WARN  no build target for: /home/takakki19/sbtSample/Factorization.scala
+2021.01.04 07:54:45 INFO  skipping build import with status 'Requested'
+1月 04, 2021 8:38:25 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1532
+2021.01.04 19:58:11 INFO  shutting down Metals
+No more data in the client stdin, exiting...
+2021.01.04 19:58:14 ERROR timeout: build server 'bloop' during shutdown
+2021.01.05 23:41:13 INFO  Started: Metals version 0.9.8 in workspace '/home/takakki19/sbtSample' for client vscode.
+2021.01.05 23:41:15 INFO  time: initialize in 1.86s
+2021.01.05 23:41:16 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher4765712859637391931/bsp.socket'...
+Waiting for the bsp connection to come up...
+2021.01.05 23:41:15 INFO  skipping build import with status 'Requested'
+2021.01.05 23:41:16 WARN  no build target for: /home/takakki19/sbtSample/Distance.scala
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.6-15-209c2a5c...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher4765712859637391931/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher4765712859637391931/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.05 23:41:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/takakki19/.cache/metals/bsp.trace.json
+2021.01.05 23:41:21 INFO  no build target: using presentation compiler with only scala-library
+2021.01.05 23:41:21 INFO  shutting down Metals
+2021.01.05 23:41:22 INFO  time: connected to build server in 6.06s
+2021.01.05 23:41:22 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.05 23:41:22 ERROR Empty build targets. Expected at least one build target identifier.
+2021.01.05 23:41:22 ERROR Empty build targets. Expected at least one build target identifier.

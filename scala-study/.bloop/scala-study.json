@@ -1,0 +1,151 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "scala-study",
+        "directory": "/home/takakki19/workspace/home/scala-study",
+        "workspaceDir": "/home/takakki19/workspace/home/scala-study",
+        "sources": [
+            "/home/takakki19/workspace/home/scala-study/src/main/scala",
+            "/home/takakki19/workspace/home/scala-study/src/main/scala-2.12",
+            "/home/takakki19/workspace/home/scala-study/src/main/scala-2",
+            "/home/takakki19/workspace/home/scala-study/src/main/java",
+            "/home/takakki19/workspace/home/scala-study/target/scala-2.12/src_managed/main",
+            "/home/takakki19/workspace/home/scala-study/PartialSumDF5.scala",
+            "/home/takakki19/workspace/home/scala-study/SimpleSearch.scala"
+        ],
+        "dependencies": [
+            
+        ],
+        "classpath": [
+            "/home/takakki19/.sbt/boot/scala-2.12.12/lib/scala-library.jar"
+        ],
+        "out": "/home/takakki19/workspace/home/scala-study/.bloop/scala-study",
+        "classesDir": "/home/takakki19/workspace/home/scala-study/.bloop/scala-study/scala-2.12/classes",
+        "resources": [
+            "/home/takakki19/workspace/home/scala-study/src/main/resources",
+            "/home/takakki19/workspace/home/scala-study/target/scala-2.12/resource_managed/main"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "2.12.12",
+            "options": [
+                
+            ],
+            "jars": [
+                "/home/takakki19/.sbt/boot/scala-2.12.12/lib/jline.jar",
+                "/home/takakki19/.sbt/boot/scala-2.12.12/lib/scala-compiler.jar",
+                "/home/takakki19/.sbt/boot/scala-2.12.12/lib/jansi.jar",
+                "/home/takakki19/.sbt/boot/scala-2.12.12/lib/scala-reflect.jar",
+                "/home/takakki19/.sbt/boot/scala-2.12.12/lib/scala-library.jar",
+                "/home/takakki19/.sbt/boot/scala-2.12.12/lib/scala-xml_2.12.jar"
+            ],
+            "analysis": "/home/takakki19/workspace/home/scala-study/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_2.12.zip",
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": true,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": true,
+                "filterLibraryFromClasspath": true
+            }
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "/usr/lib/jvm/java-11-openjdk-amd64",
+                "options": [
+                    "-Duser.dir=/home/takakki19/workspace/home/scala-study"
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.12.12",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "/home/takakki19/.sbt/boot/scala-2.12.12/lib/scala-library.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "/home/takakki19/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.12/scala-library-2.12.12-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.12.12",
+                    "configurations": "optional",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "/home/takakki19/.sbt/boot/scala-2.12.12/lib/scala-library.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "/home/takakki19/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.12/scala-library-2.12.12-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "library"
+        ]
+    }
+}

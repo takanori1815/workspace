@@ -1,0 +1,4 @@
+[debug] [scala-study-build] Classpath dependencies List()
+[debug] [scala-study-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scala-study-build' to '/home/takakki19/workspace/home/scala-study/project/.bloop/scala-study-build.json'
+[success] Generated .bloop/scala-study-build.json
